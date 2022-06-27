@@ -1,0 +1,67 @@
+body
+{
+  font-family: "Raleway", sans-serif;
+}
+.flex-centre,.fas.flex-centre
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.flex-around
+{ 
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.flex-between 
+{ 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.flex-column-between 
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.flex-column-centre 
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.textdecorationnone 
+{
+  text-decoration: none;
+}
+.bordurenone 
+{
+  border: none;
+}
+.bleu 
+{
+  color: #0065fc;
+}
+.gris
+{
+  color: #f2f2f2;
+}
+.fondbleu 
+{
+  background-color: #0065fc;
+}
+.fondgris 
+{
+  background-color: #f2f2f2
+}
+.gras 
+{
+  font-weight: bold;
+}
+.liennoir 
+{
+  color: black;
+}
